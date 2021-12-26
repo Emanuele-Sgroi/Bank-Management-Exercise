@@ -2,11 +2,6 @@
 Name Project: Bank Management
 Author: Nunzio Emanuele Sgroi
 
-University of West London
-Student ID: 21508918
-Module: Programming
-Type: Assessment Task 4
-
 Description
 This program is a simulation of how bank accounts are managed thanks to programming.
 I followed the guide below:
